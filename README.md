@@ -5,7 +5,7 @@
 
 # Установка приложения
 ```
-git clone https://github.com/BigNeutronStar/opec-oil-analysis.git
+git clone https://github.com/BigNeutronStar/opecOIL_for_present
 ```
 
 # Запуск приложения
